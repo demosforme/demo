@@ -1,0 +1,8 @@
+loan-defaults-datasource:
+  url: ""
+  userName:
+  password:
+  driverClassName: oracle.jdbc.OracleDriver
+  maxPoolSize: 5
+  minimumIdle: 2
+  connectionTestQuery: select user from dual
