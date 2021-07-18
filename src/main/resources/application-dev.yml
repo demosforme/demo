@@ -1,4 +1,4 @@
-loan-defaults-datasource:
+defaults-datasource:
   url: ""
   userName:
   password:

@@ -1,8 +1,8 @@
-package com.example.demo.config.properties;
+package com.example.demo.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties("loan-defaults-datasource")
+@ConfigurationProperties("defaults-datasource")
 public class DataSourceProperties {
     private String url;
     private String userName;

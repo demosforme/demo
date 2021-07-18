@@ -1,6 +1,6 @@
 package com.example.demo.config;
 
-import com.example.demo.config.properties.DataSourceProperties;
+import com.example.demo.properties.DataSourceProperties;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import oracle.jdbc.pool.OracleDataSource;
